@@ -1,0 +1,2 @@
+# ophanim
+Trading Bot
